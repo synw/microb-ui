@@ -1,7 +1,7 @@
 Microb user interface
 =====================
 
-User interface for Microb api using with Caddy file server
+User interface for Microb api server using with Caddy file server
 
 Get [Microb api server](https://github.com/synw/microb) up and running
 
