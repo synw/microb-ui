@@ -7,9 +7,9 @@ Get [Microb api server](https://github.com/synw/microb) up and running
 
 Clone and place the folder at Caddy's static root
 
-Configure [Caddy static files server](http://caddyserver.com/):
+Configure the [Caddy static files server](http://caddyserver.com/):
 
-  ```javascript
+  ```json
 localhost:8080 {
 	gzip
 	log /home/myuser/path_to_static_root/var/access.log
