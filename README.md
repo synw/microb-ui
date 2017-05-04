@@ -9,7 +9,7 @@ Clone and place the folder at Caddy's static root
 
 Configure the [Caddy static files server](http://caddyserver.com/):
 
-  ```json
+  ```javascript
 localhost:8080 {
 	gzip
 	log /home/myuser/path_to_static_root/var/access.log
